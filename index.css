@@ -1,0 +1,51 @@
+body{
+    margin:0px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+img {
+    border-radius: 50%;
+    height: 80%;
+}
+  
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+#right-mar {
+    margin-left: 60%;
+    text-align: right;
+}
+
+#boxes {
+    display: table;
+    clear: both;
+}
+
+#container {
+    float: left;  
+    padding: 0 10px;
+}
+
+#column1 {
+    width: 20%;
+}
+
+#column2 {
+    margin-left: 50%;
+    text-align: right;
+    width: 40%;
+}
